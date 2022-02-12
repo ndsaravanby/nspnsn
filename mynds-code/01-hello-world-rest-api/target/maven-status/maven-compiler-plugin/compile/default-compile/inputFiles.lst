@@ -1,0 +1,4 @@
+/home/ansible/workspace/kubernetes-crash-course/01-hello-world-rest-api/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldBean.java
+/home/ansible/workspace/kubernetes-crash-course/01-hello-world-rest-api/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/environment/InstanceInformationService.java
+/home/ansible/workspace/kubernetes-crash-course/01-hello-world-rest-api/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/home/ansible/workspace/kubernetes-crash-course/01-hello-world-rest-api/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldController.java
